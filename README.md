@@ -1,3 +1,5 @@
+![snake gif](https://github.com/shashankpalingi/shashankpalingi/blob/output/github-contribution-grid-snake.svg)
+---
 <div align="center">
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
 </div>
@@ -108,7 +110,6 @@
 
   ---
 
-![snake gif](https://github.com/shashankpalingi/shashankpalingi/blob/output/github-contribution-grid-snake.svg)
 
 
 
