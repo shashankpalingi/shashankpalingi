@@ -108,7 +108,7 @@
 
   ---
 
-![snake gif](https://github.com/shashankpalingi/shashankpalingi/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/shashankpalingi/shashankpalingi/blob/output/github-contribution-grid-snake.svg)
 
 
 
