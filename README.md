@@ -106,9 +106,4 @@
 - **Whiteboard**: Collaborative drawing and brainstorming
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashankpalingi&" alt="shashankpalingi" /></p>
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/shashankpalingi/shashankpalingi/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+
