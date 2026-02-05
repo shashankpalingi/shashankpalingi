@@ -78,7 +78,7 @@
 
 <div align="center">
   <img src="https://github.com/shashankpalingi/studyBuddy/blob/main/frontend/public/landingpage.jpeg" alt="Study Buddy Landing Page" width="100%">
-  
+
   [![React](https://img.shields.io/badge/React-19-blue?logo=react)](https://react.dev/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue?logo=typescript)](https://www.typescriptlang.org/)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-blueviolet?logo=tailwind-css)](https://tailwindcss.com/)
