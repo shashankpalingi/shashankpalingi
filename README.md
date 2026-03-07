@@ -110,6 +110,53 @@
 
   ---
 
+# FileMind: Files that understand themselves 🚀
+
+<div align="center">
+  <img src="https://github.com/shashankpalingi/FileMind/blob/main/project-screenshot.png" alt="FileMind Banner" width="100%">
+  
+  [![React](https://img.shields.io/badge/React-18.x-blue?logo=react)](https://react.dev/)
+  [![Vite](https://img.shields.io/badge/Vite-5.x-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
+  [![FastAPI](https://img.shields.io/badge/FastAPI-Framework-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+  [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+  [![Supabase](https://img.shields.io/badge/Supabase-Auth_&_DB-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com/)
+  [![Groq](https://img.shields.io/badge/Groq-Llama_3-f55036?logo=groq)](https://groq.com/)
+  [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-06B6D4?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+  [![Netlify](https://img.shields.io/badge/Netlify-Frontend_Deploy-00AD9F?logo=netlify&logoColor=white)](https://www.netlify.com/)
+  [![Lucide](https://img.shields.io/badge/Lucide-Icons-d7e0ff?logo=lucide)](https://lucide.dev/)
+
+  <div align="center" style="margin: 30px 0;">
+    <a href="https://filemind08.netlify.app/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/EXPLORE_LIVE_DEMO-%234F46E5.svg?style=for-the-badge&logo=react&logoColor=white&labelColor=4F46E5&color=635BFF" alt="Explore Live Demo" width="300" height="50"/>
+    </a>
+  </div>
+</div>
+
+## 🌟 Our Vision
+
+**Intelligent File Management** – FileMind transforms traditional document storage into an AI-powered knowledge system. Instead of manually organizing folders, the platform understands the meaning of your files and automatically groups them based on context, making information discovery faster and smarter.
+
+---
+
+
+## ✨ Core Features
+
+### 🧠 AI-Powered Intelligence
+- **Semantic Clustering**: Automatically groups files by topic and meaning, not just filenames.
+- **Knowledge Assistant**: RAG-based AI chat that answers questions from your indexed documents.
+
+### 📊 Smart Visualization
+- **Interactive Dendrogram**: Explore relationships between documents visually.
+- **Context-Based Organization**: Understands meaning rather than relying on folder structures.
+
+### 🔐 Secure & Scalable
+- **Hybrid Authentication**: Supabase login with Email/Password and Google OAuth.
+- **Secure Data Handling**: Robust backend powered by FastAPI.
+
+### 🎨 Modern User Experience
+- **Artisanal UI**: Clean "Ink & Sketch" design aesthetic.
+- **Dark / Light Mode**: Seamless theme switching.
+- **Fully Responsive**: Optimized for desktop, tablet, and mobile devices.
 
 
 
